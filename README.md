@@ -1,0 +1,4 @@
+Hi! I'm not exactly new to programming. I have a solid grasp of the programming languages. However I'm at a loss when I tend to code a specific project. So I dug deep and found out that a lot of my limitation is because of the fact that I do not know how to use Github as effectively.
+Github is an amazing tool/platform to find repositories that can take days, sometimes months of coding from your work. So you can focus on bringing your specific idea to life rather than trying to code a feature and lose sight of the overall project. Has happened with me many times and I figured learning github with help me alleviate that issue.
+Also, Heroku, its buildprocess depends quite heavily on git, so it makes sense to learn git in order to dominate all the technology that's available to us for free, inaccessible only to those who do not know.
+With this, on we go.
