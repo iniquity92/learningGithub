@@ -1,0 +1,1 @@
+This directory is where I put all of my code as I learn a various things. A few things that I'm keen to learn now are C#, git, apache Kafka, API design, and microservice architecture. I will put experimental codes here. Each of the above mentioned projects will get their own directories and READMEs :)
